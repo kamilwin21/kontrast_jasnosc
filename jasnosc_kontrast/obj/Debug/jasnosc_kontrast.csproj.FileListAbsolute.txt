@@ -1,0 +1,9 @@
+C:\Users\Kamil\source\repos\jasnosc_kontrast\jasnosc_kontrast\bin\Debug\jasnosc_kontrast.exe.config
+C:\Users\Kamil\source\repos\jasnosc_kontrast\jasnosc_kontrast\bin\Debug\jasnosc_kontrast.exe
+C:\Users\Kamil\source\repos\jasnosc_kontrast\jasnosc_kontrast\bin\Debug\jasnosc_kontrast.pdb
+C:\Users\Kamil\source\repos\jasnosc_kontrast\jasnosc_kontrast\obj\Debug\jasnosc_kontrast.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\jasnosc_kontrast\jasnosc_kontrast\obj\Debug\jasnosc_kontrast.Form1.resources
+C:\Users\Kamil\source\repos\jasnosc_kontrast\jasnosc_kontrast\obj\Debug\jasnosc_kontrast.Properties.Resources.resources
+C:\Users\Kamil\source\repos\jasnosc_kontrast\jasnosc_kontrast\obj\Debug\jasnosc_kontrast.csproj.GenerateResource.cache
+C:\Users\Kamil\source\repos\jasnosc_kontrast\jasnosc_kontrast\obj\Debug\jasnosc_kontrast.exe
+C:\Users\Kamil\source\repos\jasnosc_kontrast\jasnosc_kontrast\obj\Debug\jasnosc_kontrast.pdb
